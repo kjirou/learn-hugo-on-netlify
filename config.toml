@@ -1,4 +1,4 @@
-baseURL = "https://your-awesome-blog.com/"
+baseURL = "https://leafy-biscotti-18c275.netlify.app/"
 hasCJKLanguage = true
 # 実際は自分達でテーマを作成・調整していましたが、それを公開されているテーマへ変更したものです。
 # そのため、動いてない部分があるかもしれません。
